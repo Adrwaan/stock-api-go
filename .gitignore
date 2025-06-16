@@ -1,0 +1,31 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.app
+
+# Test binaries
+*.test
+
+# Coverage files
+*.out
+*.cov
+coverage.txt
+
+# Dependency management
+go.mod
+go.sum
+
+# IDE
+.idea/
+*.iml
+*.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*~
+*.tmp
