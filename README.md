@@ -54,7 +54,7 @@ The application is structured with the following components:
 
 ## 🔗 API Endpoints
 
-[Documentation for specific endpoints would be added here based on the routes implementation]
+Coming Soon...
 
 ## 🤝 Contributing
 
