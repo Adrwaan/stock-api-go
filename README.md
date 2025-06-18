@@ -1,12 +1,12 @@
-# Stock API REST in Golang
+# 📈 Stock API REST in Golang
 
 A RESTful API service for stock market data management built with Go. This API provides endpoints for retrieving, managing, and processing stock market information.
 
-## Overview
+## 🔍 Overview
 
 This project implements a stock market API using Go's standard library and routing capabilities. The application follows a modular architecture with separated concerns for routing, business logic, and data handling.
 
-## Project Structure
+## 📁 Project Structure
 
 ```
 stock-api-go/
@@ -15,14 +15,14 @@ stock-api-go/
 └── README.md        # Project documentation
 ```
 
-## Getting Started
+## 🚀 Getting Started
 
-### Prerequisites
+### 📋 Prerequisites
 
 - Go 1.19 or higher
 - Git
 
-### Installation
+### 💾 Installation
 
 1. Clone the repository:
 
@@ -43,7 +43,7 @@ go mod tidy
 go run main.go
 ```
 
-## Architecture
+## 🏗️ Architecture
 
 The application is structured with the following components:
 
@@ -52,11 +52,11 @@ The application is structured with the following components:
 - **models/**: Contains data models and business logic for product management, including CRUD operations
 - **config/**: Handles application configuration and logging setup
 
-## API Endpoints
+## 🔗 API Endpoints
 
 [Documentation for specific endpoints would be added here based on the routes implementation]
 
-## Contributing
+## 🤝 Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -64,7 +64,7 @@ The application is structured with the following components:
 4. Push to the branch
 5. Create a Pull Request
 
-## License
+## 📄 License
 
 MIT License
 
